@@ -1,0 +1,5 @@
+packages:
+  packages/day-one/
+  packages/day-two/
+  packages/day-three/
+  packages/day-four/
